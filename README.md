@@ -2,7 +2,8 @@
 
 ## Overview
 A Win32 + C++ learning project organized as incremental snapshots (CPP1–CPP4). Each CPP file is a runnable step that builds up from a blank window to a simple Pong-style game loop with input, rendering, and collisions.
-
+## Status
+### Incomplete
 ## What’s Implemented
 - Win32 window creation + message loop (CPP1)
 - Software rendering primitives via a small renderer module (CPP2 / renderer.cpp)
