@@ -9,6 +9,13 @@ A Win32 + C++ learning project organized as incremental snapshots (CPP1–CPP4).
 - Keyboard input state tracking (platformCommon.cpp, util.cpp)
 - Game loop + state update + basic Pong gameplay/collision handling (CPP3–CPP4, game.cpp)
 
+## What's Missing
+- A score counter
+- Something to check for and end game state and a winner
+- Basic NPC logic for a single player mode
+- Options for single or multiplayer
+At this time, I have no intention on adding these things as I have gained the skills needed from this to apply to future projects. However, this is a playable demo.
+
 ## Repo Layout
 - `CPP1WindowsandPointers.cpp` — window setup
 - `CPP2DrawingGraphics.cpp` — basic rendering
